@@ -27,8 +27,8 @@ organizations:
 
 Research Interests:
   - Soft Electronics
-  - 3D printing
-  - Adaptive display
+  - 3D Printing
+  - Adaptive Display
   - Soft Robotics
 
 Education Background:
