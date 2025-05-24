@@ -45,7 +45,7 @@ Education Background:
 Work Experience:
   - position: Research Assistant
     institution: Southern University of Science and Technology
-    
+---    
 
 ## About Me
 
