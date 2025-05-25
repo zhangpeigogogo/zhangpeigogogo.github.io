@@ -22,8 +22,12 @@ role: PhD Candidate
 organizations:
   - name: Southern University of Science and Technology
    
-# Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
+name: Pei Zhang
+role: Chief Scientist
+bio: >
+  I am a PhD student at the Southern University of Science and Technology working on soft electronics, 3D printing, and adaptive displays.
+
+avatar: avatar.jpg
 
 interests:
   - Soft Electronics
@@ -32,19 +36,17 @@ interests:
   - Soft Robotics
 
 education:
-  - area: PhD Intelligent Manufacturing and Robotics
+  - degree: PhD, Intelligent Manufacturing and Robotics
     institution: Southern University of Science and Technology
-    date_start: 2021-09-01
-    date_end: 2025-06-30
-   
-  - area: B.S and M.S. Materials Science and Engineering
+    year: 2021–2025
+  - degree: B.S. & M.S., Materials Science and Engineering
     institution: Zhengzhou University
-    date_start: 2013-09-01
-    date_end: 2019-06-30
-    
-work:
-  - position: Research Assistant
+    year: 2013–2019
+
+experience:
+  - role: Research Assistant
     institution: Southern University of Science and Technology
+    year: 2021–present
 ---    
 
 ## About Me
