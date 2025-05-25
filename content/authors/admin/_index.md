@@ -17,7 +17,9 @@ highlight_name: true
 
 # Role/position/tagline
 role: PhD Candidate
+
 avatar: /img/avatar.jpg
+
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Southern University of Science and Technology
