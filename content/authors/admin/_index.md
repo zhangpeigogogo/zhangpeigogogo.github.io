@@ -46,7 +46,7 @@ education:
 experience:
   - role: Research Assistant
     institution: Southern University of Science and Technology
-    year: 2021–present
+    year: 2019–2021
 ---    
 
 ## About Me
