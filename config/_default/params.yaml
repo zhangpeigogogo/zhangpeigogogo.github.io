@@ -61,3 +61,5 @@ features:
 
 custom_css:
   - css/custom.css
+features:
+  authors: true
