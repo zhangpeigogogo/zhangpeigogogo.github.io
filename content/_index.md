@@ -123,3 +123,30 @@ sections:
         css_class: "bg-primary-700"
         css_style: ""
 ---
+---
+widget: about
+active: true
+weight: 1
+title: About Me
+body: >
+  I am a PhD student at the Southern University of Science and Technology working on soft electronics, 3D printing, and adaptive displays.
+
+education:
+  - degree: PhD, Intelligent Manufacturing and Robotics
+    institution: Southern University of Science and Technology
+    year: 2021–2025
+  - degree: B.S. & M.S., Materials Science and Engineering
+    institution: Zhengzhou University
+    year: 2013–2019
+
+work:
+  - role: Research Assistant
+    institution: Southern University of Science and Technology
+    year: 2019–2021
+
+interests:
+  - Soft Electronics
+  - 3D Printing
+  - Adaptive Display
+  - Soft Robotics
+---
