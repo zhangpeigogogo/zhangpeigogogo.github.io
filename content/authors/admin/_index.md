@@ -43,7 +43,7 @@ education:
     institution: Zhengzhou University
     year: 2013–2019
 
-experience:
+work:
   - role: Research Assistant
     institution: Southern University of Science and Technology
     year: 2019–2021
