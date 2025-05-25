@@ -17,7 +17,7 @@ highlight_name: true
 
 # Role/position/tagline
 role: PhD Candidate
-
+avatar: /img/avatar.jpg
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Southern University of Science and Technology
@@ -29,7 +29,7 @@ weight: 1
 title: Pei ZHANG
 subtitle: ""
 
-avatar: /img/avatar.jpg
+
 # 自我介绍
 body: >
   I am a PhD student at the Southern University of Science and Technology working on soft electronics, 3D printing, and adaptive displays.
