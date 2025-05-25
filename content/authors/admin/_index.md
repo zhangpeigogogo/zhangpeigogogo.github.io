@@ -26,7 +26,7 @@ widget: about
 active: true
 weight: 1
 
-title: About Me
+title: Pei ZHANG
 subtitle: ""
 
 # 自我介绍
