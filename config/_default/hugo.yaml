@@ -37,7 +37,6 @@ disableAliases: true
 outputs:
   home: [HTML, RSS, headers, redirects, backlinks]
   section: [HTML, RSS]
-
 timeout: 600000
 taxonomies:
   author: authors
