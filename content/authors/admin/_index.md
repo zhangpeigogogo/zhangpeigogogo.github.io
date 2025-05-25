@@ -51,7 +51,15 @@ interests:
 work:
   - position: Research Assistant
     company_name: Southern University of Science and Technology
-    year: 2019–2021
+    # company_url: ''
+    # company_logo: ''
+    date_start: 2019-09-01
+    date_end: 2021-08-15
+    # summary: |2-
+      # Responsibilities include:
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---    
 
 ## About Me
