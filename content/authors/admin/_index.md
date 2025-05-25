@@ -29,6 +29,7 @@ weight: 1
 title: Pei ZHANG
 subtitle: ""
 
+avatar: /img/avatar.jpg
 # 自我介绍
 body: >
   I am a PhD student at the Southern University of Science and Technology working on soft electronics, 3D printing, and adaptive displays.
