@@ -22,19 +22,18 @@ role: PhD Candidate
 organizations:
   - name: Southern University of Science and Technology
    
-name: Pei Zhang
-role: Chief Scientist
-bio: >
+widget: about
+active: true
+weight: 1
+
+title: About Me
+subtitle: ""
+
+# 自我介绍
+body: >
   I am a PhD student at the Southern University of Science and Technology working on soft electronics, 3D printing, and adaptive displays.
 
-avatar: avatar.jpg
-
-interests:
-  - Soft Electronics
-  - 3D Printing
-  - Adaptive Display
-  - Soft Robotics
-
+# 教育背景
 education:
   - degree: PhD, Intelligent Manufacturing and Robotics
     institution: Southern University of Science and Technology
@@ -42,6 +41,13 @@ education:
   - degree: B.S. & M.S., Materials Science and Engineering
     institution: Zhengzhou University
     year: 2013–2019
+avatar: avatar.jpg
+
+interests:
+  - Soft Electronics
+  - 3D Printing
+  - Adaptive Display
+  - Soft Robotics
 
 work:
   - role: Research Assistant
