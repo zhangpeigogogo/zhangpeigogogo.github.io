@@ -3,11 +3,12 @@ body, h1, h2, h3, h4, h5, h6, p, span, a, li, div {
   color: #000000 !important;
 }
 
+
 img.avatar, .avatar img {
-  width: 118px;
-  height: 165px;
+  width: 147px;
+  height: 206px;
   object-fit: cover;
-  border-radius: 0; /* 设置为方形/矩形 */
+  border-radius: 0;
 }
 
 
