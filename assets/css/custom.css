@@ -3,10 +3,8 @@ body, h1, h2, h3, h4, h5, h6, p, span, a, li, div {
   color: #000000 !important;
 }
 img.avatar, .avatar img {
-  border-radius: 0 !important;
-}
-img.avatar, .avatar img {
-  width: 295px;     /* 宽度：可自定义 */
-  height: 413px;    /* 高度：可自定义 */
-  object-fit: cover; /* 保持图片比例，填满区域 */
+  width: 118px;
+  height: 165px;
+  object-fit: cover;
+  border-radius: 0; /* 方形头像 */
 }
