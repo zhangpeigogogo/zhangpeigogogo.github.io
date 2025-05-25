@@ -35,10 +35,10 @@ body: >
 
 # 教育背景
 education:
-  - degree: PhD, Intelligent Manufacturing and Robotics
+  - area: PhD, Intelligent Manufacturing and Robotics
     institution: Southern University of Science and Technology
     year: 2021–2025
-  - degree: B.S. & M.S., Materials Science and Engineering
+  - area: B.S. & M.S., Materials Science and Engineering
     institution: Zhengzhou University
     year: 2013–2019
 
@@ -49,8 +49,8 @@ interests:
   - Soft Robotics
 
 work:
-  - role: Research Assistant
-    institution: Southern University of Science and Technology
+  - position: Research Assistant
+    company_name: Southern University of Science and Technology
     year: 2019–2021
 ---    
 
