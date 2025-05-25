@@ -5,8 +5,8 @@ body, h1, h2, h3, h4, h5, h6, p, span, a, li, div {
 
 
 img.avatar, .avatar img {
-  width: 147px;
-  height: 206px;
+  width: 118px;
+  height: 165px;
   object-fit: cover;
   border-radius: 0;
 }
