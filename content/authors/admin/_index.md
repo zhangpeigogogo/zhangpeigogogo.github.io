@@ -25,13 +25,13 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 
-Research Interests:
+interests:
   - Soft Electronics
   - 3D Printing
   - Adaptive Display
   - Soft Robotics
 
-Education Background:
+education:
   - area: PhD Intelligent Manufacturing and Robotics
     institution: Southern University of Science and Technology
     date_start: 2021-09-01
@@ -42,7 +42,7 @@ Education Background:
     date_start: 2013-09-01
     date_end: 2019-06-30
     
-Work Experience:
+work:
   - position: Research Assistant
     institution: Southern University of Science and Technology
 ---    
