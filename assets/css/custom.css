@@ -5,8 +5,8 @@ body, h1, h2, h3, h4, h5, h6, p, span, a, li, div {
 
 /* 设置头像为一寸照片大小的长方形，去除圆角 */
 img.avatar, .avatar img {
-  width: 118px;          /* 宽度 118px */
-  height: 165px;         /* 高度 165px */
+  width: 295px;          /* 宽度 118px */
+  height: 413px;         /* 高度 165px */
   object-fit: cover;     /* 保持图片比例裁剪填充 */
   border-radius: 0 !important; /* 强制无圆角，确保是方形 */
 }
