@@ -8,10 +8,10 @@ main:
     url: /
     weight: 10
   - name: Projects
-    url: /
+    url: /My Research
     weight: 11
   - name: Publications
-    url: /
+    url: /Recent Pubications
     weight: 20
 
 
