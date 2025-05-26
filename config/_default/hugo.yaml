@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Website name
-title: Hugo Academic CV Theme
+title: Pei ZHANG
 # Website URL
 baseURL: 'https://example.com/'
 
@@ -37,10 +37,6 @@ disableAliases: true
 outputs:
   home: [HTML, RSS, headers, redirects, backlinks]
   section: [HTML, RSS]
-imaging:
-  resampleFilter: lanczos
-  quality: 80
-  anchor: smart
 timeout: 600000
 taxonomies:
   author: authors

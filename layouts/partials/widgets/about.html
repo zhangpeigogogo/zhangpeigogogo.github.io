@@ -1,0 +1,43 @@
+{{/* HugoBlox About Widget Custom Template */}}
+
+<div class="about-widget">
+  {{ with .Params.body }}
+    <div class="about-body">
+      {{ . | markdownify }}
+    </div>
+  {{ end }}
+
+  {{ with .Params.education }}
+    <h3>Education</h3>
+    <ul>
+      {{ range . }}
+        <li style="margin-bottom: 0.5em;">
+          <strong>{{ .degree }}</strong><br>
+          {{ .institution }} ({{ .year }})
+        </li>
+      {{ end }}
+    </ul>
+  {{ end }}
+
+  {{ with .Params.work }}
+    <h3>Work Experience</h3>
+    <ul>
+      {{ range . }}
+        <li style="margin-bottom: 0.5em;">
+          <strong>{{ .role }}</strong><br>
+          {{ .institution }} ({{ .year }})
+        </li>
+      {{ end }}
+    </ul>
+  {{ end }}
+
+  {{ with .Params.interests }}
+    <h3>Research Interests</h3>
+    <ul>
+      {{ range . }}
+        <li>{{ . }}</li>
+      {{ end }}
+    </ul>
+  {{ end }}
+</div>
+

@@ -1,9 +1,9 @@
 ---
-title: Pandas
-date: 2023-10-26
+title: 3D printing ELectroluminescent display
+date: 2022-08-24
 external_link: https://github.com/pandas-dev/pandas
 tags:
-  - Hugo
+  - Electroluminescent display
   - Wowchemy
   - Markdown
 ---
