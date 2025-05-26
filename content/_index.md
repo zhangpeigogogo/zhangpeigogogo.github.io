@@ -41,10 +41,10 @@ sections:
         featured_only: true
     design:
       view: article-grid
-      columns: 3
+      columns: 1
   - block: collection
     content:
-      title: Recent Publications
+      title: Publications
       text: ""
       filters:
         folders:
@@ -55,7 +55,7 @@ sections:
 widget: about
 active: true
 weight: 1
-title: About Me
+title: Pei ZHANG
 body: >
   I am a PhD student at the Southern University of Science and Technology working on soft electronics, 3D printing, and adaptive displays.
 
