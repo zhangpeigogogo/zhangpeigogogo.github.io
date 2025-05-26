@@ -52,8 +52,6 @@ sections:
         exclude_featured: false
     design:
       view: citation
- ---
----
 widget: about
 active: true
 weight: 1
