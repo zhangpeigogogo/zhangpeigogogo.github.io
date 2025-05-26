@@ -23,7 +23,7 @@ abstract: Responsive structural colors have emerged as a transformative platform
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 # tags:
-- Large Language Models
+# - Large Language Models
 
 featured: true
 
