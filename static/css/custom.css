@@ -8,7 +8,7 @@ img.avatar,
 }
 
 .article-grid {
-  max-width: 1200px; /* 最大宽度 */
+  max-width: 800px; /* 最大宽度 */
   margin: 0 auto; /* 居中显示 */
   padding: 2rem; /* 内边距 */
 }
