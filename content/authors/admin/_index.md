@@ -48,7 +48,7 @@ education:
 interests:
   - Soft Electronics
   - 3D Printing
-  - Adaptive Display
+  - Structure Color
   - Soft Robotics
 
 work:
