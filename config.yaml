@@ -1,0 +1,8 @@
+title: Pei ZHANG
+baseURL: "https://zhangpeigogogo.github.io/"
+params:
+  favicon: favicon.png
+
+# 其他你已有的配置也可以加进来
+defaultContentLanguage: en
+

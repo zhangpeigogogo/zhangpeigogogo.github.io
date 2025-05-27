@@ -6,7 +6,7 @@
 # Appearance
 appearance:
   mode: system
-  color: emerald
+  color: sky
 
 # SEO
 marketing:
@@ -25,7 +25,7 @@ marketing:
   verification:
     google: ''
     baidu: ''
-
+favicon: "favicon.png"
 # Site header
 header:
   navbar:

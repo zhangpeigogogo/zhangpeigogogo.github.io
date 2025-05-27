@@ -7,3 +7,12 @@ img.avatar,
   border-radius: 0 !important;
 }
 
+.article-grid {
+  max-width: 800px; /* 最大宽度 */
+  margin: 0 auto; /* 居中显示 */
+  padding: 2rem; /* 内边距 */
+}
+
+.article-grid .content {
+  padding: 1rem; /* 控制内容块的内边距 */
+}
