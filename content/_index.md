@@ -21,7 +21,7 @@ sections:
     design:
       css_class: white
       background:
-        color: black
+        color: transparent
           
   - block: collection
     id: publications
