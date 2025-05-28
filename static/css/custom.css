@@ -16,3 +16,30 @@ img.avatar,
 .article-grid .content {
   padding: 1rem; /* 控制内容块的内边距 */
 }
+/* Flexbox layout for research section */
+.research-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 3rem;
+}
+
+.research-section img {
+  max-width: 45%; /* Limit the image width to 45% */
+  height: auto;
+  margin-right: 2rem; /* Space between image and text */
+}
+
+.research-section .content {
+  max-width: 50%; /* Limit the content width to 50% */
+}
+
+.research-section h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.research-section p {
+  font-size: 1rem;
+  color: #555;
+}
