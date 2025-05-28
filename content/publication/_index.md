@@ -1,5 +1,5 @@
 ---
-title: "My Research"
+title: "Research"
 ---
 
 # Research Topic 1
